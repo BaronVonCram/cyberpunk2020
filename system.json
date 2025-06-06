@@ -200,7 +200,8 @@
   "primaryTokenAttribute": null,
   "secondaryTokenAttribute": null,
   "url": "https://github.com/OctarineSourcerer/cyberpunk2020",
-  "manifest": "https://raw.githubusercontent.com/OctarineSourcerer/cyberpunk2020/main/system.json",
-  "download": "https://github.com/OctarineSourcerer/cyberpunk2020/archive/v0.3.12.zip"
+  "manifest": "https://github.com/BaronVonCram/cyberpunk2020/releases/download/v0.3.13/system.json",
+  "download": "https://github.com/BaronVonCram/cyberpunk2020/releases/tag/v0.3.13"
+  "id": "cyberpunk2020"
 }
   
